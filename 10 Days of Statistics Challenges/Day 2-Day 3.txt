@@ -1,0 +1,29 @@
+Day 2: Basic Probability
+https://www.hackerrank.com/challenges/s10-mcq-1
+
+5/6
+
+Day 2: More Dice
+https://www.hackerrank.com/challenges/s10-mcq-2
+
+1/9
+
+Day 2: Compound Event Probability
+https://www.hackerrank.com/challenges/s10-mcq-3
+
+17/42
+
+Day 3: Conditional Probability
+https://www.hackerrank.com/challenges/s10-mcq-4
+
+1/3
+
+Day 3: Cards of the Same Suit
+https://www.hackerrank.com/challenges/s10-mcq-5
+
+12/51
+
+Day 3: Drawing Marbles
+https://www.hackerrank.com/challenges/s10-mcq-6
+
+2/3
