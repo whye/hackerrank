@@ -42,6 +42,7 @@ int main() {
         sum += (x_vec[i] - mean_x)*(y_vec[i] - mean_y);
     }
     
+    //Pearson Correlation Coefficient: = sum((xi - xmean)*(yi - ymean)) / n(dev_x)(dev_y)
     cout << fixed << setprecision(3);
     cout << sum/(n*deviation(x_vec, mean_x)*deviation(y_vec, mean_y)) << endl;
     
